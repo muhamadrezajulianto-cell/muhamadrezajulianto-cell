@@ -116,21 +116,15 @@ const developer = {
   <p align="center">
     <img src="https://img.shields.io/github/followers/muhamadrezajulianto-cell?label=Followers&logo=github&style=for-the-badge&color=8b5cf6&labelColor=0d1117" alt="Followers" />
     <img src="https://img.shields.io/badge/Status-Active_Developer-22d3ee?style=for-the-badge&logo=codewars&logoColor=white&labelColor=0d1117" alt="Status" />
-    <img src="https://img.shields.io/github/repo-size/muhamadrezajulianto-cell/muhamadrezajulianto-cell?label=Profile_Repo&style=for-the-badge&color=ec4899&labelColor=0d1117" alt="Repo Size" />
+    <img src="https://img.shields.io/badge/Contributions-60%2B_Commits-ec4899?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Contributions" />
+    <img src="https://img.shields.io/github/repo-size/muhamadrezajulianto-cell/muhamadrezajulianto-cell?label=Profile_Repo&style=for-the-badge&color=10b981&labelColor=0d1117" alt="Repo Size" />
   </p>
 
   <br/>
 
-  <!-- OFFICIAL STREAK STATS (DEMOLAB) -->
+  <!-- OFFICIAL STREAK STATS (DEMOLAB - 100% ACTIVE) -->
   <a href="https://github.com/muhamadrezajulianto-cell">
     <img src="https://streak-stats.demolab.com/?user=muhamadrezajulianto-cell&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=22d3ee&currStreakLabel=22d3ee" alt="GitHub Streak" width="100%" />
-  </a>
-
-  <br/><br/>
-
-  <!-- DYNAMIC CONTRIBUTIONS ACTIVITY GRAPH -->
-  <a href="https://github.com/muhamadrezajulianto-cell">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadrezajulianto-cell&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=ec4899&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
   </a>
 
 </div>
