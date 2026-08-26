@@ -111,26 +111,28 @@ const developer = {
 ### 📊 **GitHub Activity & Live Metrics**
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=muhamadrezajulianto-cell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9" alt="Reza's GitHub Stats" width="410" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrezajulianto-cell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Top Languages" width="370" />
-      </td>
-    </tr>
-  </table>
 
-  <br/>
-
-  <!-- STREAK STATS -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadrezajulianto-cell&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=22d3ee&currStreakLabel=22d3ee" alt="GitHub Streak" width="790" />
+  <!-- GITHUB TROPHIES -->
+  <a href="https://github.com/muhamadrezajulianto-cell">
+    <img src="https://github-profile-trophy.vercel.app/?username=muhamadrezajulianto-cell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
 
   <br/><br/>
 
-  <!-- ACTIVITY GRAPH -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadrezajulianto-cell&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=f472b6&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <!-- STATS & TOP LANGS -->
+  <a href="https://github.com/muhamadrezajulianto-cell">
+    <img src="https://github-readme-stats.vercel.app/api?username=muhamadrezajulianto-cell&show_icons=true&theme=tokyonight&hide_border=true&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/muhamadrezajulianto-cell">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrezajulianto-cell&layout=compact&theme=tokyonight&hide_border=true&title_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="48%" />
+  </a>
+
+  <br/><br/>
+
+  <!-- OFFICIAL STREAK STATS (DEMOLAB) -->
+  <a href="https://github.com/muhamadrezajulianto-cell">
+    <img src="https://streak-stats.demolab.com/?user=muhamadrezajulianto-cell&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=22d3ee&currStreakLabel=22d3ee" alt="GitHub Streak" width="100%" />
+  </a>
 
 </div>
 
