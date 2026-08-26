@@ -112,19 +112,25 @@ const developer = {
 
 <div align="center">
 
-  <!-- STATS & TOP LANGS (Cloudflare Fast Mirror) -->
+  <!-- DYNAMIC LIVE STATS BADGES (100% Uptime & No Rate Limits) -->
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/muhamadrezajulianto-cell?label=Followers&logo=github&style=for-the-badge&color=8b5cf6&labelColor=0d1117" alt="Followers" />
+    <img src="https://img.shields.io/badge/Status-Active_Developer-22d3ee?style=for-the-badge&logo=codewars&logoColor=white&labelColor=0d1117" alt="Status" />
+    <img src="https://img.shields.io/github/repo-size/muhamadrezajulianto-cell/muhamadrezajulianto-cell?label=Profile_Repo&style=for-the-badge&color=ec4899&labelColor=0d1117" alt="Repo Size" />
+  </p>
+
+  <br/>
+
+  <!-- OFFICIAL STREAK STATS (DEMOLAB) -->
   <a href="https://github.com/muhamadrezajulianto-cell">
-    <img src="https://github-readme-stats.anuraghazra1.workers.dev/api?username=muhamadrezajulianto-cell&show_icons=true&theme=tokyonight&hide_border=true&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" width="49%" />
-  </a>
-  <a href="https://github.com/muhamadrezajulianto-cell">
-    <img src="https://github-readme-stats.anuraghazra1.workers.dev/api/top-langs/?username=muhamadrezajulianto-cell&layout=compact&theme=tokyonight&hide_border=true&title_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="49%" />
+    <img src="https://streak-stats.demolab.com/?user=muhamadrezajulianto-cell&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=22d3ee&currStreakLabel=22d3ee" alt="GitHub Streak" width="100%" />
   </a>
 
   <br/><br/>
 
-  <!-- OFFICIAL STREAK STATS (DEMOLAB) -->
+  <!-- DYNAMIC CONTRIBUTIONS ACTIVITY GRAPH -->
   <a href="https://github.com/muhamadrezajulianto-cell">
-    <img src="https://streak-stats.demolab.com/?user=muhamadrezajulianto-cell&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=22d3ee&currStreakLabel=22d3ee" alt="GitHub Streak" width="98%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadrezajulianto-cell&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=ec4899&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
   </a>
 
 </div>
