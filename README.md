@@ -54,20 +54,23 @@ PLAYER_PROFILE:
 
 ---
 
-### 👾 **Pac-Man Contribution Maze**
+### 👾 **Pac-Man Arcade Contribution Maze**
 
 <div align="center">
 
 ```text
  ╔═══════════════════════════════════════════════════════════════════════════════╗
  ║  🍒  • • • •  👻  • • • •  👻  • • • •  👻  • • • •  👻  • • • •  🟡  ᗧ • • • ║
- ║                                                                               ║
  ║     [HIGH SCORE: 999,999]     [LIVES: ❤️ ❤️ ❤️]     [LEVEL: FULL STACK]        ║
  ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-  <!-- ANIMATED PAC-MAN / GHOST GIF RETRO MARQUEE -->
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="380" alt="Pacman Animation" />
+  <!-- REAL PAC-MAN CONTRIBUTIONS GRAPH (ARCADE SVG) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="arcade-contributions.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="arcade-contributions.svg" />
+    <img src="arcade-contributions.svg" alt="Pac-Man Arcade Contribution Graph" width="100%" />
+  </picture>
 
 </div>
 
