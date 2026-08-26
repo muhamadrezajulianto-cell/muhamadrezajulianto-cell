@@ -66,11 +66,7 @@ PLAYER_PROFILE:
 ```
 
   <!-- REAL PAC-MAN CONTRIBUTIONS GRAPH (ARCADE SVG) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="arcade-contributions.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="arcade-contributions.svg" />
-    <img src="arcade-contributions.svg" alt="Pac-Man Arcade Contribution Graph" width="100%" />
-  </picture>
+  <img src="./arcade-contributions.svg" alt="Pac-Man Arcade Contribution Graph" width="100%" />
 
 </div>
 
