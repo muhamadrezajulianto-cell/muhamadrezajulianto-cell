@@ -1,116 +1,159 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:202020,100:ffffff&height=220&section=header&text=MUHAMAD%20REZA%20JULIANTO&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+  <!-- HERO BANNER / TYPING ANIMATION -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=220&section=header&text=MUHAMAD%20REZA%20JULIANTO&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=Full%20Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Enthusiast%20%E2%80%A2%20Digital%20Creator&descSize=16&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Web+Developer;Full+Stack+Developer;API+Enthusiast;Building+Something+Cool..." />
+  <!-- DYNAMIC ANIMATED TYPEWRITER -->
+  <a href="https://github.com/muhamadrezajulianto-cell">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&multiline=false&width=620&height=45&lines=Halo%2C+Saya+Muhamad+Reza+Julianto+%F0%9F%91%8B;Full+Stack+Web+Developer+%E2%9A%A1;Crafting+Futuristic+%26+Reactive+UI%2FUX+%E2%9C%A8;Building+High-Performance+Web+Applications+%F0%9F%9A%80;Dream%2C+Build%2C+Break%2C+Repeat.+%F0%9F%94%A5" alt="Typing SVG" />
+  </a>
 
-<br>
+  <br/>
 
-<img src="https://komarev.com/ghpvc/?username=muhamadrezajulianto-cell&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
+  <!-- QUICK SOCIAL BADGES -->
+  <p align="center">
+    <a href="https://github.com/muhamadrezajulianto-cell" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.instagram.com/reza_julianto17?igsi=MTRiZ2NhOG9hNzVoNw%3D%3D&utm_source=qr" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://t.me/Muhamadrezajulianto" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="https://wa.me/6285887667982" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+  </p>
+
+  <!-- REPO VISITORS COUNT -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=muhamadrezajulianto-cell&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile Views" />
+  </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 🚀 **About Me**
 
 ```javascript
-const reza = {
-    name: "Muhamad Reza Julianto",
-    role: "Web Developer",
-    focus: [
-        "Web Development",
-        "REST API",
-        "Backend Development",
-        "Modern UI"
-    ],
-    currentlyLearning: [
-        "Node.js",
-        "JavaScript",
-        "Cloud Deployment"
-    ],
-    goal: "Build useful and creative digital projects 🚀"
+const developer = {
+  name       : "Muhamad Reza Julianto",
+  alias      : "Zet",
+  role       : "Full Stack Web Developer",
+  coreStack  : ["Next.js", "React", "Node.js", "Tailwind CSS", "MongoDB"],
+  location   : "Indonesia 🇮🇩",
+  passion    : ["Futuristic Dark UI", "Micro-Interactions", "High-Performance APIs"],
+  status     : "OPEN_TO_COLLABORATION_AND_FREELANCE",
+  motto      : "Dream, Build, Break, Repeat."
 };
 ```
 
+* 🔭 **Currently Building:** Modern web applications, micro-tools, and streaming platforms.
+* 🎨 **UI/UX Philosophy:** Glassmorphism, cyber neon aesthetics, fluid spring physics & 3D micro-interactions.
+* ⚡ **Fun Fact:** Loves experimenting with Web Audio API, Canvas particles, and retro synthwave vibes.
+
 ---
 
-## ⚡ Tech Stack
+### 🛠️ **Tech Arsenal & Skills**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,git,github,vercel,cloudflare,vscode&perline=6" />
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Frontend** | <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> |
+| **Backend & APIs** | <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/> |
+| **Databases** | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
+| **DevOps & Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> |
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+### 🌟 **Featured Projects**
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎵 zetifly — Music Streaming Platform</h3>
+      <p align="center">
+        <a href="https://zetifly.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Live_Demo-zetifly.onrender.com-8b5cf6?style=for-the-badge" alt="Live Demo" />
+        </a>
+      </p>
+      <p align="center">
+        Platform streaming audio & musik modern tanpa batas dan bebas iklan. Dilengkapi jutaan lagu, live equalizer visualizer, dynamic queue, dan playlist manager.
+      </p>
+      <p align="center">
+        <code>Next.js</code> • <code>Node.js</code> • <code>Web Audio API</code> • <code>Tailwind</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ All Tools Zett — Utility Suite</h3>
+      <p align="center">
+        <a href="https://zetttools.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Live_Demo-zetttools.vercel.app-22d3ee?style=for-the-badge" alt="Live Demo" />
+        </a>
+      </p>
+      <p align="center">
+        Platform multi-tools serbaguna all-in-one buatan Zett. Menyediakan fitur sosmed downloader (TikTok, IG, YT, Spotify), maker utilities, converter, dan vault.
+      </p>
+      <p align="center">
+        <code>Multi-Tools</code> • <code>Downloader API</code> • <code>Next.js</code> • <code>Vercel Edge</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 **GitHub Activity & Live Metrics**
 
 <div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=muhamadrezajulianto-cell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9" alt="Reza's GitHub Stats" width="410" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrezajulianto-cell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Top Languages" width="370" />
+      </td>
+    </tr>
+  </table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhamadrezajulianto-cell&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" height="180"/>
+  <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadrezajulianto-cell&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" height="180"/>
+  <!-- STREAK STATS -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadrezajulianto-cell&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=22d3ee&currStreakLabel=22d3ee" alt="GitHub Streak" width="790" />
+
+  <br/><br/>
+
+  <!-- ACTIVITY GRAPH -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadrezajulianto-cell&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=f472b6&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+### 🤝 **Get In Touch**
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=muhamadrezajulianto-cell&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+Tertarik untuk berkolaborasi, membuat project web kustom, atau sekadar berdiskusi seputar teknologi? Hubungi saya kapan saja!
 
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-@muhamadrezajulianto--cell-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhamadrezajulianto-cell)
+[![Instagram](https://img.shields.io/badge/Instagram-@reza__julianto17-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reza_julianto17?igsi=MTRiZ2NhOG9hNzVoNw%3D%3D&utm_source=qr)
+[![Telegram](https://img.shields.io/badge/Telegram-@Muhamadrezajulianto-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Muhamadrezajulianto)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+62_858--8766--7982-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285887667982)
 
----
+<br/>
 
-## 🐍 Contribution Snake
+<!-- FOOTER ANIMATED WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=120&section=footer" width="100%" />
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/muhamadrezajulianto-cell/muhamadrezajulianto-cell/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/muhamadrezajulianto-cell">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhamadrezajulianto-cell&repo=YOUR_PROJECT_1&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/muhamadrezajulianto-cell">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhamadrezajulianto-cell&repo=YOUR_PROJECT_2&theme=transparent&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/muhamadrezajulianto-cell">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Building ideas into reality, one line of code at a time."
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:202020,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
+<p align="center">
+  <b>Designed &amp; Built with 💜 by <a href="https://github.com/muhamadrezajulianto-cell">Muhamad Reza Julianto (Zet)</a></b>
+</p>
 
 </div>
